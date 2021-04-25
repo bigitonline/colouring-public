@@ -41,7 +41,7 @@ class ColouringMap extends Component<ColouringMapProps, ColouringMapState> {
         this.state = {
             theme: 'night',
             lat: 52.5245255,
-            lng: -0.1338422,
+            lng: 6.1338422,
             zoom: 16,
             boundary: undefined,
         };
