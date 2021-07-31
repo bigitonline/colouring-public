@@ -15,7 +15,7 @@ import { categoryMapsConfig } from '../config/category-maps-config';
 import { Category } from '../config/categories-config';
 import { Building } from '../models/building';
 
-const OS_API_KEY = 'NVUxtY5r8eA6eIfwrPTAGKrAAsoeI9E9';
+const OS_API_KEY = 'Mu8QaaIZbdDuwqVOSrWF27OOxynK0jNf4Gv1pmMhkjQ';
 
 interface ColouringMapProps {
     selectedBuildingId: number;
