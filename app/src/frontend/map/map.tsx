@@ -13,7 +13,7 @@ import Legend from './legend';
 import SearchBox from './search-box';
 import ThemeSwitcher from './theme-switcher';
 
-const OS_API_KEY = 'NVUxtY5r8eA6eIfwrPTAGKrAAsoeI9E9';
+const OS_API_KEY = 'Mu8QaaIZbdDuwqVOSrWF27OOxynK0jNf4Gv1pmMhkjQ';
 
 interface ColouringMapProps {
     building?: Building;
